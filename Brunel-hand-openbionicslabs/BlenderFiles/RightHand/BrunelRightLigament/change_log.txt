@@ -1,0 +1,116 @@
+Name: HOOK 1st Finger
+HOOK 1st Finger Type: EMPTY
+HOOK 1st Finger transform: X-19.0 Y-0.8107600212097168 Z0.0
+HOOK 1st Finger rotation: X0.0 Y-0.0 Z0.0872664600610733
+HOOK 1st Finger scale: X1.0 Y1.0 Z1.0
+HOOK 1st Finger groups: None
+
+Name: HOOK 1st Finger.001
+HOOK 1st Finger.001 Type: EMPTY
+HOOK 1st Finger.001 transform: X-19.0 Y-0.8107600212097168 Z0.0
+HOOK 1st Finger.001 rotation: X0.0 Y-0.0 Z0.0872664600610733
+HOOK 1st Finger.001 scale: X1.0 Y1.0 Z1.0
+HOOK 1st Finger.001 groups: None
+
+Name: HOOK 2nd Finger
+HOOK 2nd Finger Type: EMPTY
+HOOK 2nd Finger transform: X0.0 Y0.0 Z0.0
+HOOK 2nd Finger rotation: X0.0 Y0.0 Z0.0
+HOOK 2nd Finger scale: X1.0 Y1.0 Z1.0
+HOOK 2nd Finger groups: None
+
+Name: HOOK 2nd Finger.001
+HOOK 2nd Finger.001 Type: EMPTY
+HOOK 2nd Finger.001 transform: X0.0 Y0.0 Z0.0
+HOOK 2nd Finger.001 rotation: X0.0 Y0.0 Z0.0
+HOOK 2nd Finger.001 scale: X1.0 Y1.0 Z1.0
+HOOK 2nd Finger.001 groups: None
+
+Name: HOOK 3rd Finger
+HOOK 3rd Finger Type: EMPTY
+HOOK 3rd Finger transform: X18.999998092651367 Y-0.8505200147628784 Z0.0
+HOOK 3rd Finger rotation: X0.0 Y-0.0 Z-0.0872664600610733
+HOOK 3rd Finger scale: X1.0 Y1.0 Z1.0
+HOOK 3rd Finger groups: None
+
+Name: HOOK 3rd Finger.001
+HOOK 3rd Finger.001 Type: EMPTY
+HOOK 3rd Finger.001 transform: X18.999998092651367 Y-0.8505200147628784 Z0.0
+HOOK 3rd Finger.001 rotation: X0.0 Y-0.0 Z-0.0872664600610733
+HOOK 3rd Finger.001 scale: X1.0 Y1.0 Z1.0
+HOOK 3rd Finger.001 groups: None
+
+Name: HOOK 4th Finger
+HOOK 4th Finger Type: EMPTY
+HOOK 4th Finger transform: X37.874996185302734 Y-3.327399969100952 Z0.0
+HOOK 4th Finger rotation: X0.0 Y-0.0 Z-0.1745329201221466
+HOOK 4th Finger scale: X1.0 Y1.0 Z1.0
+HOOK 4th Finger groups: None
+
+Name: HOOK 4th Finger.001
+HOOK 4th Finger.001 Type: EMPTY
+HOOK 4th Finger.001 transform: X37.874996185302734 Y-3.327399969100952 Z0.0
+HOOK 4th Finger.001 rotation: X0.0 Y-0.0 Z-0.1745329201221466
+HOOK 4th Finger.001 scale: X1.0 Y1.0 Z1.0
+HOOK 4th Finger.001 groups: None
+
+Name: Ligament.000
+Ligament.000 Type: MESH
+Ligament.000 transform: X0.0 Y0.0 Z0.0
+Ligament.000 rotation: X0.0 Y-0.0 Z0.0
+Ligament.000 scale: X1.0 Y1.0 Z1.0
+Ligament.000 groups: None
+Ligament.000 mesh: Ligament.001
+Ligament.000 materials: NF Black, NF Black.001, NF Black.002, NF Black.003, 
+Ligament.000 modifiers: 
+  #1 Name: Subsurf, Type: SUBSURF
+        Levels: 3, Type: CATMULL_CLARK
+
+Name: Ligament.001
+Ligament.001 Type: MESH
+Ligament.001 transform: X-19.0 Y-0.8107600212097168 Z0.0
+Ligament.001 rotation: X0.0 Y-0.0 Z0.0872664526104927
+Ligament.001 scale: X1.0 Y1.0 Z1.0
+Ligament.001 groups: None
+Ligament.001 mesh: Ligament.002
+Ligament.001 materials: NF Black, NF Black.001, NF Black.002, NF Black.003, 
+Ligament.001 modifiers: 
+  #1 Name: Subsurf, Type: SUBSURF
+        Levels: 3, Type: CATMULL_CLARK
+
+Name: Ligament.003
+Ligament.003 Type: MESH
+Ligament.003 transform: X18.999998092651367 Y-0.8505200147628784 Z0.0
+Ligament.003 rotation: X0.0 Y-0.0 Z-0.0872664526104927
+Ligament.003 scale: X1.0 Y1.0 Z1.0
+Ligament.003 groups: None
+Ligament.003 mesh: Ligament.003
+Ligament.003 materials: NF Black, NF Black.001, NF Black.002, NF Black.003, 
+Ligament.003 modifiers: 
+  #1 Name: Subsurf, Type: SUBSURF
+        Levels: 3, Type: CATMULL_CLARK
+
+Name: Ligament.004
+Ligament.004 Type: MESH
+Ligament.004 transform: X37.874996185302734 Y-3.327399969100952 Z0.0
+Ligament.004 rotation: X0.0 Y-0.0 Z-0.1745329201221466
+Ligament.004 scale: X1.0 Y1.0 Z1.0
+Ligament.004 groups: None
+Ligament.004 mesh: Ligament
+Ligament.004 materials: NF Black, NF Black.001, NF Black.002, NF Black.003, 
+Ligament.004 modifiers: 
+  #1 Name: Subsurf, Type: SUBSURF
+        Levels: 3, Type: CATMULL_CLARK
+
+Name: Ligament.007
+Ligament.007 Type: MESH
+Ligament.007 transform: X37.874996185302734 Y-3.327399969100952 Z0.0
+Ligament.007 rotation: X0.0 Y-0.0 Z-0.1745329201221466
+Ligament.007 scale: X1.0 Y1.0 Z1.0
+Ligament.007 groups: None
+Ligament.007 mesh: Ligament.007
+Ligament.007 materials: NF Black, NF Black.001, NF Black.002, NF Black.003, 
+Ligament.007 modifiers: 
+  #1 Name: Subsurf, Type: SUBSURF
+        Levels: 3, Type: CATMULL_CLARK
+

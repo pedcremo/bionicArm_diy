@@ -1,0 +1,180 @@
+(footprint "DO-214AC"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "http://www.sycelectronica.com.ar/semiconductores/1N4007-SMD.pdf")
+	(property "Reference" "REF**"
+		(at -1.905 -1.651 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "dc54db5e-c3f9-4e8d-bb7c-33eee1386ead")
+		(effects
+			(font
+				(size 0.79121 0.79121)
+				(thickness 0.09779)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "DO-214AC"
+		(at -1.905 2.54 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "54306d47-333c-492e-aa1b-b54698998df3")
+		(effects
+			(font
+				(size 0.79121 0.79121)
+				(thickness 0.09779)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c974640a-5bb5-4480-83a5-734e0c438ded")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "46f4c2f2-0326-4994-8882-5b942e492b91")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -2.15 -1.3)
+		(end -2.15 -1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "88a15cda-1859-4432-84ab-eabf9ba95bae")
+	)
+	(fp_line
+		(start -2.15 1.3)
+		(end -2.15 1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "adb8d6ba-8598-4c5e-88ce-a125d6afcf64")
+	)
+	(fp_line
+		(start -2.145 -1.35)
+		(end 2.145 -1.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2503b1c6-de33-40e4-82a9-709a3feff849")
+	)
+	(fp_line
+		(start 2.145 1.35)
+		(end -2.145 1.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "62d19400-40f4-4b59-930f-afb2035b4e4c")
+	)
+	(fp_line
+		(start 2.15 -1.3)
+		(end 2.15 -1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e33fc702-54da-4c2d-b0e2-c51eb37c0e90")
+	)
+	(fp_line
+		(start 2.15 1.3)
+		(end 2.15 1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2143e660-e862-4ea9-8fde-7e2fb91b5a51")
+	)
+	(fp_poly
+		(pts
+			(xy 0.605574 0) (xy -0.4445 0.900063) (xy -0.4445 -0.900063)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "c885564a-6215-4fc9-b607-6b21194ce678")
+	)
+	(fp_poly
+		(pts
+			(xy -2.159 1.27) (xy 2.159 1.27) (xy 2.159 -1.27) (xy -2.159 -1.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.CrtYd")
+		(uuid "6d73db1d-c4ed-40e8-8958-4de181d86698")
+	)
+	(fp_line
+		(start -2.145 1.35)
+		(end -2.145 -1.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7abb8c6a-dac5-4d00-b745-1c34c02a1027")
+	)
+	(fp_line
+		(start 2.145 -1.35)
+		(end 2.145 1.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "270d9bb4-6cf4-47fd-bdbd-6b5e3d89b1ee")
+	)
+	(pad "1" smd rect
+		(at -2.042 0 90)
+		(size 1.77 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "7e43930c-135c-4d98-af18-559410f10d6c")
+	)
+	(pad "2" smd rect
+		(at 2.042 0 90)
+		(size 1.77 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "fd57a355-2ef8-48e5-8d45-190f853e8a38")
+	)
+	(embedded_fonts no)
+)
