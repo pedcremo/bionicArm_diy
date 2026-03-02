@@ -85,3 +85,79 @@ design, this fully articulated device is primed to revolutionise
  
  This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 
  International License.
+
+ Amazon list 
+
+ Electrónica y Actuadores
+
+    1x - Chestnut PCB https://www.amazon.es/s%3Fk%3DTeensy%2B4.0
+
+        Nota: Es una placa propietaria. Si no la encuentras, la alternativa estándar en prótesis biónicas es usar un Teensy 3.2 o 4.0 con un terminal shield.
+
+        Alternativa: Teensy 4.0
+
+    3x - PQ12 Motors (Actuonix)
+
+        Enlace Amazon: Actuonix PQ12-P Linear Actuator 
+        https://www.amazon.es/s?k=Actuonix+PQ12
+
+    1x - 12V Power Cable (Fuente de alimentación)
+
+        Enlace Amazon: Fuente Alimentación 12V 2A Jack 5.5mm
+
+    1x - Micro USB Cable (Reforzado)
+
+        Enlace Amazon: Cable Micro USB Trenzado
+
+Resortes y Muelles (Springs)
+
+    3x - Conical Springs / 8x Finger Springs
+
+        Nota: Es mejor comprar un kit de surtido de muelles de acero inoxidable para encontrar la tensión exacta.
+
+        Enlace Amazon: Kit de 200 muelles de tracción y compresión
+        https://www.amazon.es/s?k=Actuonix+PQ12
+
+Tornillería y Pasadores (Métrica 2 y 1.4)
+
+He sustituido los Torx por Allen (Hexagonales) o Estrella (Phillips), ya que son mucho más fáciles de encontrar en Amazon y cumplen la misma función biónica.
+
+    11x - 3x10mm Dowel Pins (Pasadores de acero)
+
+        Enlace Amazon: Pasadores 3x10mm (50 unidades)
+        https://www.amazon.es/dp/B08H4MB7N5
+
+    Kit de Tornillos M2 (Cubre 5mm, 8mm, 10mm y 16mm)
+
+        Es más económico comprar el maletín que las medidas sueltas.
+
+        Enlace Amazon: Kit Tornillos M2 Cabeza Avellanada/Plana
+        https://www.amazon.es/dp/B08H4MB7N5
+
+    10x - M1.4x5mm Cap Head Screws
+
+        Enlace Amazon: Micro Tornillos M1.4
+        https://www.amazon.es/dp/B08H4MB7N5
+
+    22x - M2 & 1x M3 Brass Heatfit Inserts (Insertos roscados para calor)
+
+        Enlace Amazon: Kit Insertos de Latón M2 y M3
+        https://www.google.com/search?q=https://www.amazon.es/dp/B08K1BVGN9
+
+    Materiales de Construcción y Tendones
+
+    4x - Black Velvet Tendon (Línea de Pesca de alta resistencia)
+
+        Open Bionics usa hilo técnico, pero el estándar de reemplazo es hilo de pesca trenzado (Dyneema/Spectra) de 100lb, que es irrompible.
+
+        Enlace Amazon: Hilo Trenzado 100lb (45kg)
+
+    1x - VitaFlex 30 Urethane (Para las puntas de los dedos)
+
+        Nota: Amazon no suele vender Smooth-On por políticas de químicos, pero esta silicona de duplicado es idéntica en dureza (Shore 30).
+
+        Enlace Amazon: Silicona de Condensación Shore A30
+
+    1x - Ferrite Core (Filtro de ruido)
+
+        Enlace Amazon: Clip de Ferrita para cables (10 unidades)
